@@ -4,7 +4,7 @@
 .mobile-style #title {
 		text-align:center;
 		background-color:#19e1ee;
-		font-size:19999px;
+		font-size:100px;
 		height:80px;
 		width:100%;
 		margin:0;
@@ -20,7 +20,7 @@
 .desktop-style #title {
 	    text-align:center;
 		background-color:#19e1ee;
-		font-size:40px;
+		font-size:100px;
 		height:51px;
 		width:100%;
 		margin:0;
