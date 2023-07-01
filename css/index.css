@@ -1,16 +1,27 @@
+.body{
+	margin:0;
+}
 .mobile-style #title {
 		text-align:center;
 		background-color:#19e1ee;
-		font-size:30px;
-		height:40px;
+		font-size:40px;
+		height:51px;
 		width:100%;
-	}
-.mobile-style #侧边栏 {
-		
+		margin:0;
+}
+.mobile-style .侧边栏菜单 {
+			height:100%;
+			width:0;
+			position:fixed;/*原地不动*/
+			z-index:1;/*保持在顶部*/
+			top:0;
+			left:0;
+}
 .desktop-style #title {
-		text-align:center;
+	    text-align:center;
 		background-color:#19e1ee;
-		font-size:20px;
-		height:30px;
+		font-size:40px;
+		height:51px;
 		width:100%;
-	}
+		margin:0;
+}
