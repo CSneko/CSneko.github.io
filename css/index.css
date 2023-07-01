@@ -1,10 +1,6 @@
-.mobile-style{
-	#title{
-		font-size:20px;
-	}
-}
-.desktop-style{
-	#title{
+.mobile-style #title {
 		font-size:120px;
 	}
-}
+.desktop-style #title {
+		font-size:12px;
+	}
