@@ -109,3 +109,15 @@
   opacity:0.75; 
   width:160px;
 }
+.mainfo {
+	display:flex;
+}
+#h {
+	text-align:center;
+	color:DodgerBlue;
+	padding:120px;
+}
+#p {
+	color:DimGray;
+	font-size:20px;
+}
