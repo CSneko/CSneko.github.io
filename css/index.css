@@ -153,3 +153,46 @@
 	color:DimGray;
 	font-size:20px;
 }
+
+
+
+
+
+
+
+
+
+
+
+/*info.html*/
+#infotitle {
+	background-color:blue;
+	width:100%;
+	text-align:center;
+	margin-top:51px;
+	font-size:33px;
+	color:white;
+}
+.cnt {
+  display: flex;
+  align-items: center;
+  margin-top:0;
+}
+
+.image-cnt img {
+  width: 200px;
+  height: auto;
+  margin-top:0;
+}
+
+.text-cnt {
+  margin-left: 20px;
+  font-size:30px;
+  margin-top:0;
+}
+
+.img h2,a,p {
+  color: #333;
+  text-decoration: none;
+  margin-top:0;
+}
