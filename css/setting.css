@@ -1,7 +1,8 @@
 	body {
   font-family: "Lato", sans-serif;
           background-size: cover;
-      background-repeat: no-repeat;
+          background-repeat: no-repeat;
+		  background-attachment: fixed;
 }
 
 .sidebar {
@@ -119,7 +120,7 @@
 .buttonb{
 	width:100%;
 	font-size:30px;
-	filter:alpha(opacity=70);
-    opacity:0.7;
+  background-color: rgba(0, 0, 0, 0);
+  opacity: 1;
 	color:black;
 }

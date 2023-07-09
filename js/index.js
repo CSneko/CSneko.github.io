@@ -36,7 +36,7 @@ window.onload = function() {
           background = getRandomBackground(['images/na1.png', 'images/na2.jpg', 'images/na3.png']);
           break;
         case 'option2':
-          background = getRandomBackground(['image4.jpg', 'image5.jpg', 'image6.jpg']);
+          background = getRandomBackground(['images/LL1.png', 'images/LL2.jpg', 'images/LL3.jpg','images/LL4.jpg','images/LL6.png','images/LL7.jpg']);
           break;
         case 'option3':
           background = getRandomBackground(['image7.jpg', 'image8.jpg', 'image9.jpg']);
